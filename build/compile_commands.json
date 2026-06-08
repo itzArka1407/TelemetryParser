@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/jack_it_iz/code-repos/log-analyzer/build",
+  "command": "/usr/lib64/ccache/c++  -I/home/jack_it_iz/code-repos/log-analyzer/include -std=gnu++20 -o CMakeFiles/log_analyzer.dir/src/main.cpp.o -c /home/jack_it_iz/code-repos/log-analyzer/src/main.cpp",
+  "file": "/home/jack_it_iz/code-repos/log-analyzer/src/main.cpp",
+  "output": "CMakeFiles/log_analyzer.dir/src/main.cpp.o"
+}
+]

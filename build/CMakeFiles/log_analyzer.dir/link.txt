@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -Wl,--dependency-file=CMakeFiles/log_analyzer.dir/link.d CMakeFiles/log_analyzer.dir/src/main.cpp.o -o log_analyzer
