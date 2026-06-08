@@ -1,3 +1,0 @@
-/home/jack_it_iz/code-repos/log-analyzer/build/CMakeFiles/log_analyzer.dir
-/home/jack_it_iz/code-repos/log-analyzer/build/CMakeFiles/edit_cache.dir
-/home/jack_it_iz/code-repos/log-analyzer/build/CMakeFiles/rebuild_cache.dir

@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/jack_it_iz/code-repos/log-analyzer/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
