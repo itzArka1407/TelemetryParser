@@ -1,26 +1,25 @@
-#include <fstream>
+#include "LogParser.h"
 #include <iostream>
 #include <ostream>
-#include <string>
 
-int main() {
-  std::cout << "C++ env loaded successfully." << std::endl;
+int main(int argc, char *args[]) {
+  if (argc < 2) {
+    std::cout << "No file path provided\n";
+    return 1; // Err code
+  }
 
-  std::string file_path = "server.log";
-  std::ifstream log_file(file_path);
+  LogParser parser(args[1]);
 
-  if (!log_file.is_open()) {
-    std::cerr << "Couldn't open the file at " << file_path << std::endl;
+  if (!parser.run()) {
     return 1;
   }
 
-  std::string line; // mutable string buffer to load lines from file
-  while (std::getline(log_file, line)) {
-    std::cout << "Line read as: " << line
-              << "\n"; // No std::endl -- to prevent repetitive flushes
-  }
-
-  std::cout << "Reached file end -- file closed automatically" << std::endl;
+  std::cout << "\n=== LOG METRICS SUMMARY ===\n"
+            << "  INFO  entries processed: " << parser.get_info_count() << "\n"
+            << "  WARN  entries processed: " << parser.get_warn_count() << "\n"
+            << "  ERROR entries processed: " << parser.get_error_count() << "\n"
+            << "  Malformed entry lines  : " << parser.get_unknown_count()
+            << "\n";
 
   return 0;
 }
