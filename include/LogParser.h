@@ -7,6 +7,9 @@ class LogParser {
   std::array<size_t, 4> counts; // The counts of different log types
   const char *file_path;        // Path of the file
 
+  const char *mmap_ptr = nullptr; // Ptr to the file
+  size_t file_size = 0;           // Size of the file(in bytes)
+
   enum LogType {
     INFO = 0,
     WARN = 1,
@@ -19,7 +22,7 @@ class LogParser {
 
 public:
   explicit LogParser(const char *file_path); // Constructor
-
+  ~LogParser(); // Destructor -- cleanup the elements
   bool run();
 
   size_t get_info_count() const { return counts[0]; }

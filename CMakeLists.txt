@@ -1,27 +1,28 @@
 cmake_minimum_required(VERSION 3.20)
 project(LogAnalyzer LANGUAGES CXX)
 
-# Enforce Modern C++20 standard
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-
-add_compile_options(-O3 -march=native)
-
-include_directories(include)
-
-# CRITICAL: Forces CMake to generate the autocomplete database for Neovim
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-# Point to your source files
-add_executable(log_analyzer src/main.cpp src/LogParser.cpp)
+# Global compilation optimization flags
+add_compile_options(-O3 -march=native)
 
-# Point to your headers folder
-target_include_directories(log_analyzer PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
+# 1. Define your core engine as a reusable Static Library
+add_library(log_parser_core src/LogParser.cpp)
 
-# Testing Engine (ctest)
+# Attach the include directory directly to the library target
+target_include_directories(log_parser_core PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
 
+# 2. Main Application Target
+add_executable(log_analyzer src/main.cpp)
+# Link the core library (Brings in LogParser code and include directories automatically!)
+target_link_libraries(log_analyzer PRIVATE log_parser_core)
+
+# 3. Testing Engine (ctest) & Benchmark Target
 enable_testing()
 
 add_executable(parser_benchmarks tests/benchmarks.cpp)
+target_link_libraries(parser_benchmarks PRIVATE log_parser_core)
 
-add_test(NAME ParserPeformance COMMAND parser_benchmarks)
+add_test(NAME ParserPerformance COMMAND parser_benchmarks)
