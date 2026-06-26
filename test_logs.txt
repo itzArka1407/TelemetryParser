@@ -1,0 +1,1251 @@
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:10 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:10 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:10 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:11 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:11 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:11 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:11 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:11 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:12 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:12 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:12 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:12 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:12 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:13 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:13 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:13 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:13 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:14 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:14 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:14 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:14 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:15 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:15 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:15 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:15 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:15 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:15 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:16 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:16 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:16 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:16 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:16 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:17 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:17 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:17 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:17 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:17 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:18 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:18 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:18 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:18 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:18 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:19 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:19 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:19 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:19 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:20 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:20 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:20 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:21 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:21 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:21 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:21 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:21 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:21 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:22 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:22 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:22 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:22 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:23 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:23 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:23 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:23 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:23 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:23 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:24 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:24 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:24 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:25 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:25 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:25 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:25 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:25 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:26 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:26 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:26 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:26 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:26 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:27 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:27 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:27 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:27 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:27 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:28 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:28 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:28 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:29 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:29 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:29 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:29 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:29 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:29 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:30 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:30 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:30 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:31 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:31 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:31 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:31 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:31 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:31 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:31 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:32 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:32 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:32 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:32 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:32 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:33 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:33 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:33 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:34 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:34 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:10:34 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:34 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:34 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:35 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:35 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:35 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:35 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:36 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:36 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:36 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:36 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:37 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:37 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:37 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:37 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:38 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:38 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:38 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:38 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:39 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:39 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:39 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:39 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:40 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:40 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:40 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:40 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:40 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:41 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:41 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:42 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:42 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:42 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:42 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:43 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:43 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:43 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:43 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:44 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:44 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:44 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:44 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:44 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:45 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:45 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:45 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:45 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:10:45 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:45 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:45 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:46 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:46 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:46 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:46 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:46 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:47 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:47 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:47 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:48 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:48 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:48 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:48 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:48 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:48 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:49 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:49 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:49 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:50 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:50 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:50 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:10:50 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:51 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:51 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:51 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:51 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:52 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:52 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:52 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:53 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:53 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:10:53 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:53 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:10:54 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:54 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:54 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:54 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:54 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:54 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:54 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:55 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:55 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:55 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:10:55 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:10:56 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:56 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:10:56 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:57 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:10:57 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:57 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:10:57 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:10:57 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:10:57 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:10:58 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:58 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:58 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:10:58 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:59 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:10:59 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:59 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:10:59 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:00 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:00 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:00 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:00 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:00 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:01 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:01 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:01 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:01 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:01 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:01 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:02 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:02 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:02 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:02 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:03 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:03 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:03 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:03 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:03 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:03 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:04 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:04 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:04 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:11:04 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:04 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:05 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:05 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:05 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:06 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:11:06 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:06 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:07 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:07 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:07 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:07 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:07 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:07 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:08 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:08 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:08 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:08 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:09 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:09 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:09 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:09 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:09 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:09 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:10 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:10 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:11 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:11 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:11 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:12 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:12 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:12 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:12 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:12 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:12 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:13 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:13 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:13 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:14 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:14 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:14 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:14 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:14 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:15 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:15 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:15 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:15 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:16 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:16 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:16 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:16 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:17 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:17 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:17 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:17 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:17 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:18 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:18 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:18 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:18 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:19 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:19 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:19 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:11:19 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:20 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:20 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:20 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:20 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:20 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:21 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:21 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:11:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:22 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:22 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:22 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:22 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:22 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:23 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:23 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:23 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:23 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:23 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:23 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:24 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:24 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:11:24 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:25 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:25 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:25 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:25 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:25 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:26 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:26 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:26 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:26 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:26 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:27 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:27 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:27 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:28 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:28 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:29 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:11:29 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:29 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:29 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:30 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:30 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:11:30 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:30 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:31 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:31 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:31 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:31 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:32 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:32 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:32 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:32 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:33 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:33 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:33 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:33 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:33 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:34 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:34 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:11:34 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:35 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:35 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:35 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:35 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:36 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:36 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:36 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:36 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:36 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:36 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:37 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:37 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:37 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:37 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:11:38 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:38 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:38 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:38 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:38 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:39 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:39 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:39 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:39 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:40 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:40 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:40 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:40 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:40 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:40 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:41 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:41 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:42 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:42 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:42 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:42 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:42 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:43 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:43 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:43 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:43 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:44 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:44 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:44 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:44 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:45 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:45 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:45 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:45 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:45 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:45 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:46 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:46 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:11:46 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:11:46 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:46 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:46 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:46 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:47 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:47 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:47 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:48 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:48 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:48 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:11:48 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:11:48 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:49 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:49 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:49 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:49 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:49 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:50 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:50 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:50 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:50 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:50 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:50 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:51 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:51 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:51 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:52 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:52 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:53 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:53 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:53 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:53 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:54 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:54 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:11:54 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:54 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:55 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:11:55 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:55 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:11:55 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:55 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:55 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:56 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:56 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:56 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:56 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:11:56 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:57 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:57 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:11:57 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:58 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:11:58 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:11:58 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:11:58 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:11:58 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:11:59 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:11:59 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:59 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:59 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:11:59 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:00 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:00 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:00 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:00 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:01 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:01 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:12:01 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:02 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:02 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:02 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:02 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:02 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:03 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:12:03 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:03 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:03 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:12:03 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:03 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:04 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:04 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:04 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:04 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:12:05 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:05 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:05 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:05 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:05 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:06 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:06 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:06 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:06 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:12:06 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:06 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:06 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:07 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:07 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:07 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:07 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:07 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:07 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:08 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:08 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:08 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:09 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:09 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:09 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:10 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:10 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:10 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:10 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:11 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:11 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:12:11 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:11 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:12 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:12 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:12 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:12 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:12:13 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:13 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:13 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:13 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:14 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:14 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:14 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:12:14 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:15 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:15 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:15 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:15 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:16 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:16 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:12:16 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:16 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:16 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:17 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:17 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:12:17 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:12:18 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:18 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:18 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:18 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:19 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:19 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:19 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:19 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:20 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:20 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:20 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:20 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:12:20 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:20 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:21 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:21 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:21 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:21 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:22 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:22 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:22 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:23 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:23 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:23 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:12:23 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:24 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:24 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:12:24 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:12:24 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:25 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:25 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:25 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:25 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:25 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:26 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:26 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:26 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:27 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:27 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:27 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:12:27 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:27 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:28 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:28 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:28 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:28 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:28 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:28 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:29 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:29 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:29 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:29 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:29 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:29 ERROR] CRITICAL: Failed to write frame block to ScyllaDB cluster node.
+[26:06:2026 21:12:30 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:30 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:30 OTHER] DEBUG: Zero-copy packet serialization boundary verified.
+[26:06:2026 21:12:31 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:31 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:31 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:31 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:32 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:32 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:32 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:32 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:32 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:33 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:33 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:33 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:33 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:33 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:33 ERROR] Connection refused: Socket allocator out of file descriptors.
+[26:06:2026 21:12:34 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:34 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:34 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:34 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:34 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:35 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:35 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:35 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:35 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:35 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:36 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:36 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:36 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:37 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:37 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:37 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:37 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:38 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:38 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:38 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:39 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:39 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:39 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:40 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:40 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:40 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:40 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:41 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:41 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:41 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:41 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:12:42 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:42 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:42 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:42 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:42 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:43 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:43 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:43 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:43 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:43 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:44 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:44 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:44 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:44 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:45 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:45 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:45 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:45 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:45 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:46 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:46 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.
+[26:06:2026 21:12:46 OTHER] TRACE: Allocator blocks assigned: initial block group size 4096.
+[26:06:2026 21:12:47 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:47 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:47 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:47 OTHER] TRACE: Entering stack frame routine live_media_relay().
+[26:06:2026 21:12:47 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:47 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:48 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:48 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:48 ERROR] TLS Handshake failed: Client certificate has expired.
+[26:06:2026 21:12:48 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:49 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:49 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:49 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:49 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:49 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:49 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:50 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:50 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:50 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:50 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:50 WARN-] Rate limit bucket saturated for host address 192.168.1.45.
+[26:06:2026 21:12:51 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:51 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:51 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:51 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:51 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:52 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:52 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:52 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:53 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:53 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:53 WARN-] Slow query detected: SELECT * FROM users took 243ms.
+[26:06:2026 21:12:53 OTHER] DEBUG: Instruction pipeline alignment check passed.
+[26:06:2026 21:12:53 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:53 INFO-] Database connection pooling established successfully.
+[26:06:2026 21:12:54 WARN-] API Gateway dropped connection pool connection due to timeout.
+[26:06:2026 21:12:54 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:54 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:54 INFO-] User session token refreshed for uid 89123.
+[26:06:2026 21:12:55 INFO-] Inbound API request processed on route /v1/metrics.
+[26:06:2026 21:12:55 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:55 INFO-] Static asset cache flushed completely in 4ms.
+[26:06:2026 21:12:55 WARN-] Disk utilization has crossed 85% threshold on /dev/nvme0n1p3.
+[26:06:2026 21:12:55 ERROR] Segmentation fault intercepted during SIMD batch vector parsing.

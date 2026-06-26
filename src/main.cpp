@@ -5,15 +5,19 @@
 #include "implot.h"
 #include <GL/gl.h>
 #include <GLFW/glfw3.h>
+#include <atomic>
 #include <imgui_impl_glfw.h>
 #include <imgui_impl_opengl3.h>
 #include <iostream>
 #include <ostream>
+#include <thread>
 
-// Packet layout to easily share pointers across GLFW callback boundaries
+// Packet layout upgraded to provide the UI loop with thread-safe access to the
+// parser data
 struct AppContext {
   GLFWwindow *window;
   AppWindow *appUI;
+  const LogParser *parser; // Shared reference link to our live data engine
 };
 
 // Unified rendering step accessible by both the main loop and OS events
@@ -23,8 +27,9 @@ void render_frame(AppContext *ctx) {
   ImGui_ImplGlfw_NewFrame();
   ImGui::NewFrame();
 
-  ctx->appUI->Render(); // Register the components onto the screen
-  ImGui::Render();      // Render the components in frame
+  // Pass the parser reference into the rendering engine layout
+  ctx->appUI->Render(*(ctx->parser));
+  ImGui::Render(); // Render the components in frame
 
   // Dynamically query current dimensions inside the render sequence
   int display_w, display_h;
@@ -52,27 +57,20 @@ static void framebuffer_size_callback(GLFWwindow *window, int width,
 }
 
 int main(int argc, char *args[]) {
-  // if (argc < 2) {
-  //   std::cout << "No file path provided\n";
-  //   return 1; // Err code
-  // }
-  //
-  // LogParser parser(args[1]);
-  //
-  // if (!parser.run()) {
-  //   return 1;
-  // }
-  //
-  // std::cout << "\n=== LOG METRICS SUMMARY ===\n"
-  //           << "  INFO  entries processed: " << parser.get_info_count() <<
-  //           "\n"
-  //           << "  WARN  entries processed: " << parser.get_warn_count() <<
-  //           "\n"
-  //           << "  ERROR entries processed: " << parser.get_error_count() <<
-  //           "\n"
-  //           << "  Malformed entry lines  : " << parser.get_unknown_count() <<
-  //           "\n";
-  //
+  // Enforce command-line safety check
+  if (argc < 2) {
+    std::cout << "Usage: ./log_analyzer <path_to_log_file>\n";
+    return 1;
+  }
+
+  // 1. Instantiate the Parser Engine on the main thread stack
+  LogParser parser(args[1]);
+
+  // 2. Initialize the shutdown flag and spawn the background worker thread
+  std::atomic<bool> shutdown_flag{false};
+  std::thread worker_thread(&LogParser::run_live, &parser,
+                            std::ref(shutdown_flag));
+
   AppWindow appUI;
 
   // Initialize the ImGui Context
@@ -89,12 +87,17 @@ int main(int argc, char *args[]) {
   auto window = generate_window();
   if (!window.has_value()) {
     std::cout << "This is wrong -- cannot open the UI window" << std::endl;
+
+    // Safety fallback: shut down worker before returning
+    shutdown_flag.store(true);
+    if (worker_thread.joinable())
+      worker_thread.join();
     return -1;
   }
   auto ui_window = *window;
 
-  // Set up synchronization pipeline hooks
-  AppContext ctx = {ui_window, &appUI};
+  // Set up synchronization pipeline hooks with the complete context pack
+  AppContext ctx = {ui_window, &appUI, &parser};
   glfwSetWindowUserPointer(ui_window, &ctx);
 
   glfwSetFramebufferSizeCallback(ui_window, framebuffer_size_callback);
@@ -105,9 +108,18 @@ int main(int argc, char *args[]) {
 
   // Pure event driven/polling rendering loop
   while (!glfwWindowShouldClose(ui_window)) {
-    glfwWaitEventsTimeout(1.0 / 60.0); // block and wait for atleast one event
+    glfwWaitEventsTimeout(1.0 / 60.0); // Block and wait for at least one event
     glfwPollEvents();
     render_frame(&ctx);
+  }
+
+  // Window closed! Trigger thread teardown sequence
+  std::cout << "Window closure detected. Stopping background log sync...\n";
+  shutdown_flag.store(true); // Signal the worker loop to break execution
+
+  if (worker_thread.joinable()) {
+    worker_thread.join(); // Sync threads back up before memory cleanup
+    std::cout << "Background thread stopped safely.\n";
   }
 
   // Close and release the acquired resources

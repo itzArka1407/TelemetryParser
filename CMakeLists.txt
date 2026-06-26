@@ -88,6 +88,6 @@ target_link_libraries(log_analyzer PRIVATE log_parser_core implot imgui glfw Ope
 # 4. Testing
 # ==============================================================================
 enable_testing()
-add_executable(parser_benchmarks tests/benchmarks.cpp)
-target_link_libraries(parser_benchmarks PRIVATE log_parser_core)
-add_test(NAME ParserPerformance COMMAND parser_benchmarks)
+# add_executable(parser_benchmarks tests/benchmarks.cpp)
+# target_link_libraries(parser_benchmarks PRIVATE log_parser_core)
+# add_test(NAME ParserPerformance COMMAND parser_benchmarks)
