@@ -1,4 +1,5 @@
 #include "LogParser.h"
+#include <atomic>
 #include <chrono>
 #include <cstddef>
 #include <cstring>
@@ -21,8 +22,8 @@ LogParser::LogParser(const char *file_path)
     return;
   }
 
-  // Map initial file context
-  remap_if_grown();
+  LogParser::remap_if_grown(); // Remap the mapping of virtual mem addr to
+                               // physical mem addr
 }
 
 LogParser::~LogParser() {
@@ -52,7 +53,6 @@ void LogParser::remap_if_grown() {
       file_size = actual_disk_size;
     }
   } else {
-    // Linux specialized in-place scaling wrapper
     void *remapped_region = mremap(const_cast<char *>(mmap_ptr), file_size,
                                    actual_disk_size, MREMAP_MAYMOVE);
     if (remapped_region != MAP_FAILED) {
@@ -63,7 +63,10 @@ void LogParser::remap_if_grown() {
 }
 
 __attribute__((always_inline)) inline LogParser::LogType
-LogParser::resolve_log_type(std::string_view log) const {
+LogParser::resolve_log_type(std::string_view log_line) const {
+  // Log format: [dd:MM:yyyy hh:mm:ss LOG_TYPE] {Log} --> at idx: 21, the
+  // LOG_TYPE starts(with max len: 5), so read from it
+  std::string_view log = log_line.substr(21, 5);
   if (log == "INFO-")
     return LogType::INFO;
   if (log == "WARN-")
@@ -110,19 +113,14 @@ void LogParser::run_live(std::atomic<bool> &shutdown_flag) {
       }
 
       std::string_view line(&mmap_ptr[line_start_idx], line_len);
-
       if (line_len < 30 || !line.starts_with("["))
-        continue;
+        continue; // Invalid line for a log, not a logging line
 
-      // Extract using index 21 layout, matching your placeholder format
-      // perfectly
-      std::string_view log_slice = line.substr(21, 5);
-      LogType log = resolve_log_type(log_slice);
-      counts[static_cast<size_t>(log)]++;
+      LogType log = resolve_log_type(line);
+      counts[static_cast<size_t>(log)].fetch_add(1, std::memory_order_relaxed);
     }
 
-    // Drop thread out of the active scheduling loop briefly to protect hardware
-    // thermals
-    std::this_thread::sleep_for(std::chrono::milliseconds(10));
+    // Sleep before performing the next check
+    std::this_thread::sleep_for(std::chrono::milliseconds(100));
   }
 }

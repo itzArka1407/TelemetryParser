@@ -6,27 +6,28 @@
 
 class LogParser {
 public:
-  // Shifted enum to public scope so ImPlot labels can cleanly match indices
-  enum LogType {
+  const static size_t LOG_TYPES_COUNT = 5;
+
+  // The type of log
+  enum class LogType {
     INFO = 0,
     WARN = 1,
     ERROR = 2,
     UNKNOWN = 3,
     OTHER = 4,
-    COUNT = 5
   };
 
 private:
-  std::array<size_t, LogType::COUNT> counts; // Size updated to 5 elements
+  std::array<std::atomic<size_t>, LOG_TYPES_COUNT> counts;
   const char *file_path;
   int fd = -1; // Track file descriptor persistently
 
   const char *mmap_ptr = nullptr;
-  size_t file_size = 0;   // Current size of our virtual memory window
-  size_t current_pos = 0; // Tracks exactly where we left off scanning
+  size_t file_size = 0;   // Current size of virtual mem window
+  size_t current_pos = 0; // Tracks where scanning was left off
 
   __attribute__((always_inline)) LogType
-  resolve_log_type(std::string_view log) const;
+  resolve_log_type(std::string_view log_line) const;
   void remap_if_grown(); // Core dynamic engine worker
 
 public:
@@ -36,13 +37,11 @@ public:
   // The live streaming execution pass loop
   void run_live(std::atomic<bool> &shutdown_flag);
 
-  // Expose raw array pointer so ImPlot templates can directly read the data
-  // slice
-  const size_t *get_counts_ptr() const { return counts.data(); }
-
-  size_t get_info_count() const { return counts[0]; }
-  size_t get_warn_count() const { return counts[1]; }
-  size_t get_error_count() const { return counts[2]; }
-  size_t get_unknown_count() const { return counts[3]; }
-  size_t get_other_count() const { return counts[4]; }
+  // Convert atomic into normal -- used to read from it
+  void copy_counts(long long *dest_buf) const {
+    for (size_t i = 0; i < LOG_TYPES_COUNT; ++i) {
+      dest_buf[i] =
+          static_cast<long long>(counts[i].load(std::memory_order_relaxed));
+    }
+  }
 };
